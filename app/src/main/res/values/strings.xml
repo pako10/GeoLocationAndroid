@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoLocationAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="longitud">Longitud</string>
+    <string name="latitud">Latitud</string>
+    <string name="iniciar_actualizaciones">Iniciar Actualizaciones</string>
+    <string name="parar_actualizaciones">Detener Actualizaciones</string>
+</resources>
